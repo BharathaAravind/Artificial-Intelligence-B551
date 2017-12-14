@@ -7,5 +7,5 @@ Assignment2: Shortest Path between two cities using BFS, DFS, UCS and A*, 15 puz
 Assignment3: Pichu(Chess implementations using Alpha Beta pruning), Location classification on Twitter Data(Naive Bayes)
 Assignment4: Parts Of Speech Tagging using Simple, Variable elimination and Viterbi algorithms and 
              OCR text prediction on noisy images using simple, variable elimination and viterbi algorithms.
-Assignment 5: Image orientation classification using k nearest, adaboost and neural networks.
+Assignment 5: Image orientation classification using k nearest, adaboost and neural networks
     
