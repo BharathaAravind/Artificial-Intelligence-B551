@@ -2,7 +2,7 @@
 
 Repo for CSCI B 551 Assignments
 
-Assignment1: N Queens and N Rooks problem_
+Assignment1: N Queens and N Rooks problem
 Assignment2: Shortest Path between two cities using BFS, DFS, UCS and A*, 15 puzzle problem
 Assignment3: Pichu(Chess implementations using Alpha Beta pruning), Location classification on Twitter Data(Naive Bayes)
 Assignment4: Parts Of Speech Tagging using Simple, Variable elimination and Viterbi algorithms and 
